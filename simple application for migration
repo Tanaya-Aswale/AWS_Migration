@@ -1,0 +1,21 @@
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+    res.send('Hello from AWS EC2!');
+});
+
+app.listen(3000, () => {
+    console.log('App is running on port 3000');
+});
+
+
+You can use a simple Node.js app or Java Spring Boot app.
+=======================================================================
+
+TO RUN USE 
+==================
+
+npm init -y
+npm install express
+node app.js
