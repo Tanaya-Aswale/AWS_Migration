@@ -1,5 +1,9 @@
 # ☁️ Cloud Migration: Monolithic Application to AWS
 
+
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/8b5c8a87-06c1-4fb1-a340-d0dd0b3983c7" />
+
+
 ## 📜 Project Description
 This project demonstrates a real-world simulation of migrating a monolithic application and its backend database from an on-premises environment to AWS Cloud.  
 It covers secure VPC design, lift-and-shift deployment of an application server to EC2, database migration to Amazon RDS, and infrastructure automation using Terraform.
